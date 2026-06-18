@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#18181b"/>
+  <circle cx="200" cy="160" r="70" fill="#27272a" stroke="#3f3f46" stroke-width="2"/>
+  <ellipse cx="200" cy="310" rx="110" ry="80" fill="#27272a" stroke="#3f3f46" stroke-width="2"/>
+  <text x="200" y="380" text-anchor="middle" fill="#71717a" font-family="system-ui, sans-serif" font-size="14">PROFILE_IMAGE</text>
+</svg>
